@@ -1,7 +1,7 @@
-import heroImgMobile from "../assets/Hero(Mobile).png";
-import heroImgTablet from "../assets/Hero(Tablet).png";
-import heroImgDesktop from "../assets/Hero(Desktop).png";
-import checkMark from "../assets/Checkmark.svg";
+import heroImgMobile from "/assets/Hero(Mobile).png";
+import heroImgTablet from "/assets/Hero(Tablet).png";
+import heroImgDesktop from "/assets/Hero(Desktop).png";
+import checkMark from "/assets/Checkmark.svg";
 import useWindowSize from "../hooks/useWindowSize.js";
 
 const checkItems = [

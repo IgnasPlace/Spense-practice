@@ -17,7 +17,11 @@ const SecureMoneySection = () => {
             </a>
           </div>
           <div className="flex justify-center lg:w-1/2">
-            <img className="" src="/src/assets/Phone (Mobile).png" alt="" />
+            <img
+              className=""
+              src="/assets/Phone (Mobile).png"
+              alt="image of a phone"
+            />
           </div>
         </div>
       </div>

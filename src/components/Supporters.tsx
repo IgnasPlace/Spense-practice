@@ -17,7 +17,7 @@ const Supporters = () => {
           return (
             <img
               key={logo + i}
-              src={`/src/assets/${logo} Logo.png`}
+              src={`/assets/${logo} Logo.png`}
               alt={`${logo} logo`}
               className=" max-h-[1.9rem]"
             />

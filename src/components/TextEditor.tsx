@@ -15,7 +15,11 @@ const TextEditor = () => {
           </a>
         </div>
         <div className="flex justify-center items-center lg:w-1/2">
-          <img className="" src="/src/assets/Text Editor.png" alt="" />
+          <img
+            className=""
+            src="/assets/Text Editor.png"
+            alt="image of a text editor"
+          />
         </div>
       </div>
     </div>

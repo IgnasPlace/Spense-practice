@@ -11,8 +11,6 @@ const Footer = () => {
               doing <span className="italic">just</span> that.
             </p>
           </div>
-
-          {/* <div className="md:flex md:justify-evenly lg:w-2/3"> */}
           <div className="grid grid-cols-2 mt-6 gap-8 text-white md:grid-cols-4 lg:mt-0">
             <div className="flex flex-col gap-3">
               <span className="text-xl font-extrabold">Company</span>
@@ -51,7 +49,6 @@ const Footer = () => {
               </a>
             </div>
           </div>
-          {/* </div> */}
         </div>
       </footer>
       <div className="bg-black flex justify-center pb-5 text-gray-500 w-full text-center">
